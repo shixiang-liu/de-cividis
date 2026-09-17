@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+~$*
+*.tmp
+.pytest_cache/
+
+# Render outputs (can be regenerated)
+__render/
+__render_decividis/
+__render_word/
+__paper_media/
+tmp/
+code/_pdf_export_tmp/
+
+# Local backups / archives
+归档_*/
+
+# Large reference files
+references/
+教学课件/

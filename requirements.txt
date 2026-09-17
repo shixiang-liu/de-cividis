@@ -1,0 +1,15 @@
+# Third-party dependencies, derived from the source imports (versions not pinned).
+# Install with: pip install -r requirements.txt
+
+numpy
+scipy
+matplotlib
+opencv-python
+scikit-image
+pillow
+python-docx
+pytest
+
+# Optional: notebook and export helpers
+# jupyter
+# nbconvert
